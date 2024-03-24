@@ -1,0 +1,15 @@
+PriorityTest.class
+ParallelSecondTests.class
+DependencyTests.class
+AssertionTests.class
+MyFirstTestClass.class
+ParametersTests.class
+ParallelTests.class
+ChildClass.class
+WebTesting\AutomationLoginTest.class
+WebTesting\SeleniumTests.class
+BaseClass.class
+ExceptionsTest.class
+WebTesting\AutomationWaitPractice.class
+GroupsTesting.class
+DataProvidersTests.class
